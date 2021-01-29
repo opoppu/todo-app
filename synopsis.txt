@@ -1,0 +1,16 @@
+ToDo App
+
+Projektin tarkoituksena on toteuttaa yksinkertainen Todo-sovellus, johon käyttäjä voi luoda tehtäviä ja tehtävälistoja.
+
+Toiminnallisuudet:
+- Käyttäjä voi kirjautua sisään/ulos
+- Käyttäjä voi luoda, muokata ja poistaa tehtäviä
+- Tehtävillä on kuvaus ja tila (tekemättä/tehty)
+- Tehtävälista sisältää useita tehtäviä. Listalla on nimi ja tila (tekemättä/työn alla/tehty)
+- Tehdyksi merkityt tehtävät/listat näkyvät omassa näkymässä, josta ne voidaan myös poistaa
+
+Stack: MERN
+
+Alustava aikataulu:
+Tavoitteena on saada projekti valmiiksi viimeistään koulutuksen loppuun mennessä (07/2021).
+Aikataulu tarkentuu, kunhan koulutuksen aikataulut ovat selvillä.
